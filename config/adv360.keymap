@@ -35,6 +35,7 @@
             quick-tap-ms = <0>;
             flavor = "balanced";
             bindings = <&kp>, <&kp>;
+            retro-tap;
        };
        
        ltb: balanced_layer_mods {
@@ -45,6 +46,7 @@
             quick-tap-ms = <0>;
             flavor = "balanced";
             bindings = <&mo>, <&kp>;
+            retro-tap;
        };
 
     };
